@@ -28,9 +28,11 @@ div {
 .formaPagamento-card {
     font: 8px;
     color: #333333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .botao-card {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: #e0360b;
     width: 100%;
     background-color: rgb(236, 95, 13);
