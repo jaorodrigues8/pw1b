@@ -3,12 +3,13 @@ div {
     padding-bottom: 20px;
 }
 
-.container {
+.-card {
         width: 250px;
 }
 
 .imagem-card {
     width: 250px;
+
 }
 
 .descricao-card {
@@ -22,7 +23,8 @@ div {
     font-size: 18px;
     font-family: impact;
     font-weight: bold;
-    color: #e0360b;
+    color: #c41010;
+    border: #000000;
 }
 
 .formaPagamento-card {
@@ -33,8 +35,8 @@ div {
 
 .botao-card {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: #e0360b;
+    background-color: #e00b0b;
     width: 100%;
-    background-color: rgb(236, 95, 13);
+    background-color: rgb(236, 20, 13);
     height: 40px;
 }
