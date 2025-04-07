@@ -26,7 +26,7 @@ color: #e00b0b;
 
 .formaPagamento-card {
 font: 8px;
-color: #000000;
+color: #333333;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -34,6 +34,6 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 background-color: #e00b0b;
 width: 100%;
-background-color rgb(236, 95, 13);
+background-color: rgb(236, 13, 13);
 height: 40px;
 }
