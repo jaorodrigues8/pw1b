@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0; 
     height: 100%;
-    background-color: #cccccc;
+    background-color: #b40707
 
 }
 .container {
@@ -11,14 +11,14 @@ body, html {
     background-color: #FFFFFF;
     margin: 0 auto;/* Alinhamento central */
     display: grid;
-    grid-template-columns: 75% 25%;
+    grid-template-columns: 100% ;
     grid-template-rows: 100px auto 150px; 
-    grid-template-areas: "cabecalho cabecalho"
-                         "secao barra-lateral"
-                         "rodape rodape";
+    grid-template-areas: "cabecalho "
+                         "secao"
+                         "rodape";
 }
 header{
-    background-color: #
+    background-color: #FFFFFF;
     grid-area: cabecalho;
 }
 main{
@@ -29,11 +29,11 @@ main{
     height: 100%;
 }
 aside{
-    background-color: #e0d475;
+    background-color: #FFFFFF;
     grid-area: barra-lateral;
 }
 footer{
-    background-color: #23b80f;
+    background-color: #ffffff;
     grid-area: rodape;
 }
 
@@ -62,4 +62,9 @@ footer{
     text-decoration: none;
     padding: 0 40px;
     
+}
+.cabeçalho{
+    color: #FFFFFF;
+
+
 }
