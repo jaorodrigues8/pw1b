@@ -1,7 +1,7 @@
 .menu{
-    justify-content: center; 
+    
     margin: 0%;
-    border: 1px solid;
+    border: 0px solid;
     background-color: rgb(255, 255, 255);
     display: flex;
     list-style: none;
@@ -12,8 +12,8 @@
     border: 3px solid #111010;
     background-color: rgb(224, 17, 17);
     transition: opacity 1.5s;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .item-menu:hover{
